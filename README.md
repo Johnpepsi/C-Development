@@ -7,11 +7,6 @@
         Console.Write(”Hello”);
         Console.Write(”What is your name”);
         
-        // WriteLine
-        Console.WriteLine(”Hello”); 
-        Console.WriteLine(”What is your name”);
-        ```
-        
     2. **ReadKey -** So we can use the read key command to see the next character. If you use the read key command, you can press one key before the display is closed. And when we use his command, we can see where where the cursor is.
         
         ```csharp

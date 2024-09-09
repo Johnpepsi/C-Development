@@ -1,0 +1,25 @@
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.csproj.AssemblyReference.cache
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login_Form_Application.Form1.resources
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login_Form_Application.MenuForm.resources
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.csproj.GenerateResource.cache
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.AssemblyInfoInputs.cache
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.AssemblyInfo.cs
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.csproj.CoreCompileInputs.cache
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\Login Form Application.exe
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\Login Form Application.deps.json
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\Login Form Application.runtimeconfig.json
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\Login Form Application.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\Login Form Application.pdb
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.csproj.CopyComplete
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\refint\Login Form Application.dll
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.pdb
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\Login Form Application.genruntimeconfig.cache
+C:\Users\pjohn\source\repos\Login Form Application\Login Form Application\obj\Debug\net6.0-windows\ref\Login Form Application.dll

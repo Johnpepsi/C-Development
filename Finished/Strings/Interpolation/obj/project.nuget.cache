@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V4VDV/sXcYIFAM5COkijrhhc8WNArH33is9CnnLxlH8mF+v0EVhIo6VOG1c2kK0zTmjcOfBtQowknAZs2+B9Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pjohn\\OneDrive\\Desktop\\Exercise Files\\Finished\\Strings\\Interpolation\\Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjohn\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pjohn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pjohn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\pjohn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
